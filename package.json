@@ -9,10 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.2",
     "@stitches/react": "^1.2.8",
+    "axios": "^1.6.3",
+    "blurhash": "^2.0.5",
+    "keen-slider": "^6.8.6",
     "next": "14.0.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-blurhash": "^0.3.0",
+    "react-dom": "^18",
+    "stripe": "^14.10.0"
   },
   "devDependencies": {
     "@types/node": "^20",
